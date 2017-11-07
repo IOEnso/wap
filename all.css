@@ -1,0 +1,100 @@
+body {
+    background-color:#FFFFFF;
+    margin: auto;
+    color: #FFFFFF;
+    font-size: 11px;
+    max-width: 450px;
+    font-family:verdana;
+}
+a {color: #2B587A;
+text-decoration: none;}
+textarea {    border: 1px solid #C0CAD5;    padding: 3px;    font-size: 11px;    font-family: tahoma, tahoma, verdana, arial, sans-serif;  }
+a.content {color: white}
+a:hover {color: #FF0000;}
+
+.a {
+    background-color:#32608A;
+    color: white;
+    padding: 3px;
+    margin-top: 2px
+}
+
+.title {
+    background-color: #EEE5B8; 
+    font-weight: bold;
+    color: #292929; 
+    text-align: left;
+    margin: 0px;
+    border: 1px solid #D7CF9E;
+    padding: 1px 5px 4px 10px;
+    margin: 0px;
+}
+.button {    background-color: #36638E;    color: #FFFFFF;    font-size: 11px;    padding: 4px 7px;    text-align: center;    font-family: tahoma, tahoma, verdana, arial, sans-serif, Lucida Sans;    border:0px;}
+.c {
+    background-color: white;
+    color: black;
+    text-align:left;
+    padding: 12px;                 
+    border-left: solid 1px #DAE1E8;          
+    border-right: solid 1px #DAE1E8;     
+    border-collapse: collapse;      
+    margin-top: 0;
+}
+
+.logo {
+background-color: #BFDFFF;
+text-align: left;
+margin: 0px;
+border: 1px solid  #0683FF;
+padding: 0px;
+}
+.all {
+margin: 0px;
+padding: 0px;
+border: 1px solid #FF5AFA;
+}
+.header_top {
+font-size : 11px;
+font-family : Sans-serif;
+background-color : #FA05FA;
+background-image : url(/img/hetop000.gif);
+background-repeat : repeat-x;
+background-position : 0 top;
+margin : 0;
+padding : 3px 1px;
+border-top : 0px solid #01796f;
+border-bottom : 1px solid #01796f;
+}
+textarea,select {
+background-color: #36638E;
+color:white;
+padding:3px 8px 3px 8px; color:#fff;
+margin: 2px;
+padding: 3px;
+}
+input { background-color: #36638E; color:white; padding:3px 8px 3px 8px; color:#fff; border: 1px; border-style: solid; border-color: black;}
+input:hover {
+background-color: #EEE5B8; color: black;
+}
+
+span {
+color : #96dc2c;
+}
+.newsdate {background: #2ECC71;padding: 2px;color: #fff;border-radius: 3px;}
+.newstitle {background: #F62459;padding: 2px;color: #fff;border-radius: 3px;}
+.news {
+    margin: 0;
+    background: #fefefe;
+    padding: 5px;
+    border: 1px solid #e5e5e5;
+    color: #292929;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+/* Style by Sparky */
+h2 {font-size: 12px;border-bottom: 1px solid #ccc;}
+.b {font-weight: bold;font-size: 24px;}
+/*extra colors*/
+.sky {color: #1E8BC3;}
+.green {color: #2ECC71;}
+.red {color: #F03434;}
